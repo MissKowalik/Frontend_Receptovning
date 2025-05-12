@@ -1,0 +1,21 @@
+#pink-background {
+    background-color: #dcacac;
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+#box {
+    background-color: white;
+    width: 1280px;
+    height: 1919px;
+    position: relative;
+    left: 15%
+}
+
+#main-image {
+    width: 1280px;
+    height: 500px;
+    object-fit: cover;
+}
+
