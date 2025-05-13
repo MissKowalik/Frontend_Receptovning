@@ -58,7 +58,7 @@ img {
     height: 500px;
     object-fit: cover;
     position: relative;
-    left: 15%
+    left: 8%
 }
 
 #white-box {
@@ -67,6 +67,6 @@ img {
     height: 1355px;
     position: absolute;
     top: 500px;
-    left: 15%;
+    left: 8%;
     padding: 64px 64px 0px 64px;
 }
