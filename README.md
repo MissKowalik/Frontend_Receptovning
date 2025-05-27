@@ -11,7 +11,7 @@ This is a static recipe webpage built using **HTML and CSS**, based on a provide
 
 | Figma Design | Final Website |
 |--------------|---------------|
-| ![Figma](./images/goal.png) | ![Website](./images/website.png) |
+| <img src="./images/goal.png" width="300"/> | <img src="./images/website.png" width="300"/> |
 
 ## 🧰 Technologies Used
 
