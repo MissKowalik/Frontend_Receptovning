@@ -9,7 +9,7 @@ This is a static recipe webpage built using **HTML and CSS**, based on a provide
 
 ## 📸 Preview
 
-![Screenshot of the website](./images/goal.jpg)
+![Screenshot of the website](./images/goal.png)
 
 ## 🧰 Technologies Used
 
