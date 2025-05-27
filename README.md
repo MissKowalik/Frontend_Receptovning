@@ -7,9 +7,11 @@ This is a static recipe webpage built using **HTML and CSS**, based on a provide
 
 ---
 
-## 📸 Preview
+## 🎯 Design vs Implementation
 
-![Screenshot of the website](./images/goal.png)
+| Figma Design | Final Website |
+|--------------|---------------|
+| ![Figma](./goal.png) | ![Website](./images/website.png) |
 
 ## 🧰 Technologies Used
 
