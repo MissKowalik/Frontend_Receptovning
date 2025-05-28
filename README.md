@@ -26,3 +26,14 @@ This is a static recipe webpage built using **HTML and CSS**, based on a provide
 - Responsive image layout using **Flexbox** and `gap`  
 - Image scaling with `object-fit: cover` for consistent visuals  
 - Color and typography customization from the design
+
+## 🧪 Work in Progress & Branches
+
+This project is part of my learning journey in frontend development.
+
+So far, I've created a new branch focused on improving **semantic HTML**:
+
+🔀 **Branch: `semantic_html`**  
+Includes improved use of semantic tags such as `<main>`, `<section>`, `<article>`, and better overall structure to enhance accessibility and readability.
+
+More improvements will be added in future branches as I continue learning and practicing!
