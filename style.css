@@ -55,8 +55,7 @@ img {
 
 .grey-box {
     background-color: #EBEBEB;
-    width: 1152px;
-    height: 81px;
+    padding: 15px;
 }
 
 .grey-box p {
